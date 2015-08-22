@@ -1,0 +1,27 @@
+{
+  "name": "using-lodash",
+  "version": "1.0.0",
+  "description": "A JavaScript utility library delivering consistency, modularity, performance, &amp; extras.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducito/using-lodash.git"
+  },
+  "keywords": [
+    "lodash",
+    "underscore",
+    "javascript"
+  ],
+  "author": "ducito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducito/using-lodash/issues"
+  },
+  "homepage": "https://github.com/ducito/using-lodash#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
